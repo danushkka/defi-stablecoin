@@ -1,0 +1,19 @@
+# Compiler files
+cache/
+out/
+
+# Broadcasts
+broadcast/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+
+# Dependencies
+lib/
+
+# Coverage
+lcov.info
+coverage/
