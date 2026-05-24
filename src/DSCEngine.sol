@@ -163,7 +163,7 @@ contract DSCEngine is ReentrancyGuard {
     }
 
     /*
-     * @notice health factor should be above 1e18 after this function is called, otherwise the transaction will * revert
+     * @notice health factor should be above 1e18 after this function is called, otherwise the transaction will revert
      */
 
     function redeemCollateral(address tokenCollateralAddress, uint256 amountCollateralToRedeem)
