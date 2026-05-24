@@ -149,7 +149,7 @@ foundryup
 ### Installation
  
 ```bash
-git clone https://github.com/your-username/defi-stablecoin.git
+git clone https://github.com/danushkka/defi-stablecoin.git
 cd defi-stablecoin
 forge install
 ```
